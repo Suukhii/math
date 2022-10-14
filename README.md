@@ -1,2 +1,2 @@
 # math
-repo for math problems 
+numerical math problems using python
